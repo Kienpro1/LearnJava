@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookCar/BookCar.iml" filepath="$PROJECT_DIR$/BookCar/BookCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-core.iml" filepath="$PROJECT_DIR$/.idea/Java-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectInLearn/projectInLearn.iml" filepath="$PROJECT_DIR$/projectInLearn/projectInLearn.iml" />
+    </modules>
+  </component>
+</project>
